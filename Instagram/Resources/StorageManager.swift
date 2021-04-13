@@ -35,11 +35,3 @@ public class StorageManager {
     }
 }
 
-public enum userPostType {
-    case photo, video
-}
-
-public struct UserPost {
-        
-}
-
